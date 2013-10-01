@@ -7,3 +7,5 @@ The Online Gaming Tournament Tracker is a system developed to partially fullfill
 Universities INFS719:  Software Security Course.
 
 This project will rapidly evolve for the the next month.
+
+Just making some changes. - nicpenning 10/1/2013
